@@ -23,8 +23,7 @@ The Time Tracker Chrome Extension is a productivity tool designed to help users 
 
 ## Installation  
 1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/BhavanaRangarao19/CHROME_EXTENSION_TIME_TRACKER-4.git  
+   ```bash   
    ```  
 2. Navigate to the directory and install dependencies:  
    ```bash  
